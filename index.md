@@ -21,4 +21,4 @@ My final milestone is the increased reliability and accuracy of my robot. I amel
 
 My first milestone was getting the fingerprint sensor to register and recognize fingerprints. Currently, the fingerprint sensor is hooked up to two LEDs, one of which will turn on depending on if the fingerprint is recognized or not. The entire setup works smoothly, but I still need to recode the arduino to cause the safe to open instead of simply turning on LEDs. Once the safe arrives, I will begin working on the safe itself and hooking it up to a keypad as well as a fingerprint.
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](
