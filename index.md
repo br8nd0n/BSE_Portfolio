@@ -1,5 +1,5 @@
-﻿# Brandon - Fingerprint ID Safe
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
+# Brandon - Fingerprint ID Safe
+This is a safe that will open with the use of a fingerprint sensor or a password. The safe uses a servo and L brackets to turn the lock, and an arduino determines if the passcode or fingerprint is correct.
 
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
