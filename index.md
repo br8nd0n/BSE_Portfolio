@@ -5,7 +5,7 @@ This will serve as a brief description of your project. Limit this to three sent
 |:--:|:--:|:--:|:--:|
 | Brandon | Mission San Jose High School | Aerospace Engineering | Incoming Senior
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
+<img src="Fingerprint_Safe.png" width=500 align=center style="float:right; padding-right:10px">
   
 # Third Milestone
 My third milestone was completing the safe and connecting all of the components together. I encountered some issues when my code would not compare two variables due to their differing types, but I was ultimately able to resolve the issue. Furthermore, I was able to reprogram the keypad to check for different password lengths rather than a predetermined amount, increasing the security of the device. I also drilled holes into the side of the safe to put the wires through and installed an impromptu switch to turn the device on and off. In the future, I plan to include a speaker to hide the sound of the servo turning, secure the locking mechanism, and hide the wiring to make the safe look better overall.
