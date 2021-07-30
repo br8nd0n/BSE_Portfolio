@@ -6,7 +6,10 @@ This is a safe that will open with the use of a fingerprint sensor or a password
 | Brandon | Mission San Jose High School | Aerospace Engineering | Incoming Senior
 
 <img src="Images/Fingerprint_Safe.png" width=500 align=center style="float:right; padding-right:10px">
-  
+
+# Fourth Milestone
+My fourth milestone was adding a speaker to the safe. After watching a short tutorial, I was able to apply my musical knowledge to the arduino's code and get it to play a short tune when the safe opens and closes. Initially, the speaker's volume was too loud, so I had to figure out a way to include a resistor into the circuit. I accomplished this by twisting the resistor's wire around the speaker's ground and connecting the other end directly into the arduino. Although the setup seems unstable, the circuit works perfectly and operates at a reasonable volume and even incorporates the servo's turning moise to hide the speaker's abrupt ending once the tune stops.
+
 # Third Milestone
 My third milestone was completing the safe and connecting all of the components together. I encountered some issues when my code would not compare two variables due to their differing types, but I was ultimately able to resolve the issue. Furthermore, I was able to reprogram the keypad to check for different password lengths rather than a predetermined amount, increasing the security of the device. I also drilled holes into the side of the safe to put the wires through and installed an impromptu switch to turn the device on and off. In the future, I plan to include a speaker to hide the sound of the servo turning, secure the locking mechanism, and hide the wiring to make the safe look better overall.
 [![Brandon_BSE_Milestone_3](https://res.cloudinary.com/marcomontalbano/image/upload/v1627068457/video_to_markdown/images/youtube--Uc2ganH2Gj8-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/Uc2ganH2Gj8 "Brandon_BSE_Milestone_3")
