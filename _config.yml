@@ -1,2 +1,4 @@
 theme: jekyll-theme-hacker
 markdown: kramdown
+title: Brandon's Fingerprint Safe
+description: This is a safe that opens with a fingerprint or a passcode, and plays a short tune when the safe locks and unlocks.
