@@ -9,6 +9,9 @@ This is a safe that will open with the use of a fingerprint sensor or a password
 
 # Fifth Milestone
 My fifth milestone was completing the locking mechanism and creating the false bottom. I also attached the fingerprint sensor and servo onto the box. I encountered some issues with getting the servo and L bracket to stay put while the glue set, but I found that by placing the box on its side the servo would stay put while the glue dried. For the L bracket, I used a small piece of wood to help keep the L bracket in place on the servo arm while the glue dried. I plan to work on bug fixes in the furutre to further improve the safe's design.
+
+[![Brandon_BSE_Milestone_5](https://res.cloudinary.com/marcomontalbano/image/upload/v1628540047/video_to_markdown/images/youtube--yJEMV5cOrH0-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://youtu.be/yJEMV5cOrH0 "Brandon_BSE_Milestone_5")
+
 # Fourth Milestone
 My fourth milestone was adding a speaker to the safe. After watching a short tutorial, I was able to apply my musical knowledge to the arduino's code and get it to play a short tune when the safe opens and closes. Initially, the speaker's volume was too loud, so I had to figure out a way to include a resistor into the circuit. I accomplished this by twisting the resistor's wire around the speaker's ground and connecting the other end directly into the arduino. Although the setup seems unstable, the circuit works perfectly and operates at a reasonable volume and even incorporates the servo's turning moise to hide the speaker's abrupt ending once the tune stops.
 
