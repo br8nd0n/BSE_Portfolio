@@ -7,6 +7,9 @@ This is a safe that will open with the use of a fingerprint sensor or a password
 
 <img src="Images/Fingerprint_Safe.png" width=500 align=center style="float:right; padding-right:10px">
 
+# Final Milestone
+My final milestone was fixing many of the major bugs within my project. I resolved issues with the speaker and servo and improved the locking design slightly. At this point, the fingerprint safe is complete.
+
 # Fifth Milestone
 My fifth milestone was completing the locking mechanism and creating the false bottom. I also attached the fingerprint sensor and servo onto the box. I encountered some issues with getting the servo and L bracket to stay put while the glue set, but I found that by placing the box on its side the servo would stay put while the glue dried. For the L bracket, I used a small piece of wood to help keep the L bracket in place on the servo arm while the glue dried. I plan to work on bug fixes in the future to further improve the safe's design.
 
